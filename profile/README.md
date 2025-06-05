@@ -97,6 +97,6 @@ We believe in **freedom, learning, and support** for every developer, no matter 
 ## 📩 Contact
 
 📥 Contact via Discord: [moncef50g](https://discord.gg/auwZPZVu7X)  
-📮 Email: dzarenafixersinfo@gmail.com  
+📮 Email:  scrazylab@gmail.com
 
 > Built by dreamers. Maintained by madmen. Powered by Algeria.
