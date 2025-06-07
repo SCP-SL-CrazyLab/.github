@@ -74,9 +74,9 @@ We believe in **freedom, learning, and support** for every developer, no matter 
 ## 📊 Stats by Founder
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzarenafixers&show_icons=true&theme=radical" alt="Founder GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[SCP:SL] CrazyLab&show_icons=true&theme=radical" alt="Founder GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzarenafixers&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SCP:SL] CrazyLab&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
